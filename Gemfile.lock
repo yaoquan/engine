@@ -33,7 +33,7 @@ PATH
       pundit (~> 0.3.0)
       rack-cache (~> 1.1)
       rails (~> 4.2.0)
-      rake (~> 10.0.0)
+      rake (>= 10.0.0)
       redcarpet (~> 3.0.0)
       responders (~> 2.0.2)
       sanitize (~> 3.1.0)
